@@ -12,6 +12,10 @@ public class User {
 	public User() {
 	}
 
+	public User(int id) {
+		this.id = id;
+	}
+
 	public User(int id, String name, String lastName, Byte age) {
 		this.id = id;
 		this.name = name;
@@ -58,7 +62,7 @@ public class User {
                 User  [ ID =        %s,
                         Name =      %s,
                         LastName =  %s,
-                        Age =       %s,
+                        Age =       %s,]
                 """
 				.formatted(id, name, lastName, age);
 	}
