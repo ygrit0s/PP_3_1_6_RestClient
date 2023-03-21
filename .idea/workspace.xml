@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f21de350-9505-4066-b7af-1b794f250240" name="Changes" comment="">
+    <list default="true" id="f21de350-9505-4066-b7af-1b794f250240" name="Changes" comment="Polishing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/habsida/ygrit0s/RestClient/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/habsida/ygrit0s/RestClient/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/habsida/ygrit0s/RestClient/client/RestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/habsida/ygrit0s/RestClient/client/RestClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/habsida/ygrit0s/RestClient/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/habsida/ygrit0s/RestClient/entity/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,11 +88,26 @@
       <workItem from="1676180064324" duration="230000" />
       <workItem from="1676100181498" duration="10711000" />
       <workItem from="1676298266910" duration="746000" />
-      <workItem from="1677809504156" duration="6388000" />
+      <workItem from="1677809504156" duration="10925000" />
+      <workItem from="1679399418950" duration="422000" />
+      <workItem from="1679400389107" duration="95000" />
+      <workItem from="1679401473443" duration="807000" />
     </task>
+    <task id="LOCAL-00001" summary="Polishing">
+      <created>1677811290442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677811290442</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Polishing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polishing" />
   </component>
 </project>
